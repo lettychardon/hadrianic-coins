@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1937,1107.17 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 3.272 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: HADRIANVS AVGVSTVS P P. Reverse: COS III. Reverse Exergue: FORT RED. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="128" notAfter="129">128-129</origDate>
+</origin>
+<provenance type="found"> Rochester Road, Bristol, England </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/0240c394_4294_4a8c_9aff_a3c1011a7e69/mid_00677587_001.jpg">
+<desc> Obverse: Laureate bust of Hadrian, facing right. Reverse: Fortuna, draped, seated left on throne, holding rudder on globe in right hand and cornucopiae in left. </desc>
+</graphic>
+</facsimile>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1984,1106.1 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 2.43 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: HADRIANVS AVGV(S)[T](V)S. Reverse: COS III. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="124" notAfter="127">124-127</origDate>
+</origin>
+<provenance type="found"> Unknown </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_18/62097553_4ceb_477c_b4ec_a3c101318c9d/mid_00687339_001.jpg">
+<desc> Obverse: Laureate bust of Hadrian, facing right, with traces of drapery on far shoulder. Reverse: Aequitas standing left, holding scales and cornucopia. </desc>
+</graphic>
+</facsimile>
+</TEI>

@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1922,1016.4 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 2.830 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: HADRIANVS AVGVSTVS P P. Reverse: COS III. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="128" notAfter="138">128-138</origDate>
+</origin>
+<provenance type="found"> Unknown </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/6893f7a8_08cb_452e_b25b_a3c1011d2cc7/mid_00678739_001.jpg">
+<desc> Obverse: Laureate head of Hadrian, facing right. Reverse: Minerva fighting right, holding spear and shield. </desc>
+</graphic>
+</facsimile>
+</TEI>

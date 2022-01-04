@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1869,0804.1 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 3.190 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: HADRIANVS AVGVSTVS. Reverse: SABINA AVGVSTI. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="130" notAfter="138">130-138</origDate>
+</origin>
+<provenance type="found"> Unknown </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/d7a5e4a2_d4a1_48cb_9341_a3c1011d2b68/mid_00678738_001.jpg">
+<desc> Obverse: Laureate head of Hadrian, facing right. Reverse: Draped bust of Sabina, facing right, with hair piled up and wearing double stephane. </desc>
+</graphic>
+</facsimile>
+</TEI>

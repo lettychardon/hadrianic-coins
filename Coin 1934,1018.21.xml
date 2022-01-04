@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1934,1018.21 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Copper Alloy </material>
+<objectType> Coin </objectType>
+<weight unit="grams"> 13.76 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: HADRIANVS AVGVSTVS. Reverse: ADVENTVS AVGVSTI. Reverse Exergue: COS III P P. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="128" notAfter="138">128-138</origDate>
+</origin>
+<provenance type="found"> Unknown </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/ed79dc8a_0fee_47a4_bd53_a3c1011b6d9e/mid_00678077_001.jpg">
+<desc> Obverse: Laureate bust of Hadrian, facing right, with drapery on left shoulder. Reverse: Hadrian, in military dress, on horse prancing left, raising right hand, holding spear in left hand. </desc>
+</graphic>
+</facsimile>
+</TEI>

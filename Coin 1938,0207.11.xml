@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1938,0207.11 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 3.460 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: IMP CAESAR TRAIAN HADRIANVS AVG. Reverse: P M TR P COS III. Reverse Field: SAL AVG. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="119" notAfter="123">119-123</origDate>
+</origin>
+<provenance type="found"> Unknown </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/a5d0135f_39a2_4af3_896a_a3c1011d25f1/mid_00678734_001.jpg">
+<desc> Obverse: Laureate head of Hadrian, facing right. Reverse: Salus standing left, holding patera and sceptre, altar with snake at feet. </desc>
+</graphic>
+</facsimile>
+</TEI>

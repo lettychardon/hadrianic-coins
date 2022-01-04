@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1924,1002.2 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 2.73 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: IMP CAESAR TRAIAN HADRIANVS AVG. Reverse: P M TR P COS III. Reverse Field: PRO AVG. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="119" notAfter="123">119-123</origDate>
+</origin>
+<provenance type="found"> Allerton Bywater, England </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/bab2da4b_c306_4f1d_a333_a3c1011a3f60/mid_00677391_001.jpg">
+<desc> Obverse: Laureate head of Hadrian, facing right. Reverse: Providentia, draped, standing left, pointing with right hand to globe at feet on left, holding a vertical sceptre in left hand. </desc>
+</graphic>
+</facsimile>
+</TEI>

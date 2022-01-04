@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Hadrianic Coin </title>
+</titleStmt>
+<publicationStmt>
+<authority/>
+<idno type="filename"/>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<repository> The British Museum</repository>
+<idno> 1911,0414.124 </idno>
+</msIdentifier>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material> Silver </material>
+<objectType> Denarius </objectType>
+<weight unit="grams"> 3.12 </weight>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout> Obverse: IMP CAESAR TRAIAN HADRIANVS AVG. Reverse: P M TR P COS III. </layout>
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace>Eastern Roman Empire</origPlace>
+<origDate notBefore="119" notAfter="123">119-123</origDate>
+</origin>
+<provenance type="found"> Edwinstowe, England </provenance>
+</history>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<facsimile>
+<graphic url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_17/abef73b0_a3bb_49d0_aa68_a3c10119ef49/mid_00677235_001.jpg">
+<desc> Obverse: Laureate head of Hadrian, facing right. Reverse: Aequitas (or Moneta?), draped, standing left, holding scales in right hand and cornucopiae in left. </desc>
+</graphic>
+</facsimile>
+</TEI>
